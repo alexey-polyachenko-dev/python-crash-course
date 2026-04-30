@@ -1,0 +1,4 @@
+You can create programs in Python.
+You can set variables in Python.
+You can create lists in Python.
+You can use loops in Python. 
